@@ -1,3 +1,5 @@
+# You can view the live application [here]:(https://hexnodekiosk.vercel.app/).
+
 # hexnodekiosk
 Hexnode Kiosk is a comprehensive device management solution designed for businesses to lock down devices into kiosk mode, enabling control over which apps or websites can be accessed.
 ## Table of Contents
