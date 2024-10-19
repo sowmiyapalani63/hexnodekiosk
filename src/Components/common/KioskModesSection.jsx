@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './KioskModesSection.css';  // Create this CSS file for styles
+import './KioskModesSection.css';
 
 const KioskModesSection = () => {
   const [activeTab, setActiveTab] = useState(0);
