@@ -80,7 +80,7 @@ const KioskFeatures = () => {
   }, []);
 
   return (
-    <section ref={sectionRef} className={`container md:pt-[120px] mx-auto md:pb-[120px] md:pl-[86.4px] ${visible ? 'animate-slide-in' : 'animate-slide-in'}`}>
+    <section ref={sectionRef} className={`container md:pt-[120px] mx-auto md:pb-[120px] lg:pl-[86.4px] ${visible ? 'animate-slide-in' : 'animate-slide-in'}`}>
       <div className="mx-auto max-w-full w-[88%]">
         <h2 className="text-center max-w-[900px] mx-auto text-[#020a19] text-[32px] leading-[40px] antialiased font-[700] sm:text-[40px] sm:leading-[1.3]">
         What additional possibilities does the Kiosk mode offer?
